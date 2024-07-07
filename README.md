@@ -10,4 +10,4 @@ A simple PHP tool to visualize and export directory trees.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/durchdacht/onefile-filetree-generator.git
+   git clone https://github.com/durchdacht/php-filetree.git
